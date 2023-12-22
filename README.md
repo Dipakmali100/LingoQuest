@@ -33,13 +33,13 @@ Before you begin, make sure you have the following installed on your machine:
 
 5. **Now start the application: for that open two terminals side-by-side**
 
-    *Run this command in 1st terminal*
+    *Run this command in 1st terminal: For running the React application*
 
    ```bash
    npm start
    ```
 
-    *Run this command in 2st terminal*
+    *Run this command in 2st terminal: For running the Backend server file*
 
    ```bash
    nodemon server.js
