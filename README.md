@@ -13,5 +13,28 @@ Before you begin, make sure you have the following installed on your machine:
 
 1. **Clone the Repository:**
 
+   ````bash
+   git clone https://github.com/Dipakmali100/LingoQuest.git
+
+2. **Enter the directory LingoQuest:**
+
    ```bash
-   git clone https://github.com/your-username/your-react-website.git
+   cd LingoQuest
+   
+3. **Install all these required libraries:**
+
+   ```bash
+   npm install react-router-dom axios cors express mongoose nodemon
+
+3. **Now start the application: for that open two terminals side-by-side**
+
+    *Run this command in 1st terminal*
+
+   ```bash
+   npm start
+   ```
+
+    *Run this command in 2st terminal*
+
+   ```bash
+   nodemon server.js
