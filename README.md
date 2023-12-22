@@ -20,13 +20,18 @@ Before you begin, make sure you have the following installed on your machine:
 
    ```bash
    cd LingoQuest
-   
-3. **Install all these required libraries:**
+
+3. **For installing node_module Directory:**
+
+   ```bash
+   npm install
+
+4. **Install all these required libraries:**
 
    ```bash
    npm install react-router-dom axios cors express mongoose nodemon
 
-3. **Now start the application: for that open two terminals side-by-side**
+5. **Now start the application: for that open two terminals side-by-side**
 
     *Run this command in 1st terminal*
 
