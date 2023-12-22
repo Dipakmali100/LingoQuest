@@ -1,6 +1,6 @@
-# Your React Website
+# LingoQuest
 
-Welcome to the repository for your React website! This README will guide you through the process of setting up and running the application locally.
+Welcome to the repository of LingoQuest! This README will guide you through the process of setting up and running the application locally.
 
 ## Prerequisites
 
