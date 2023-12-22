@@ -8,22 +8,22 @@ function Quiz() {
       <div className="quiz-container">
         <div className="quiz">
           <div className="quiz-que">
-            <b>Q. which option best describes your job role?</b>
+            <b>Q. What is the German word for 'hello'?</b>
           </div>
           <div className="quiz-options" id="options">
-          <label class="options">Small Business Owner or Employee
+          <label class="options">Guten Morgen
                 <input type="radio" name="radio"/>
                 <span class="checkmark"></span>
             </label>
-            <label class="options">Nonprofit Owner or Employee
+            <label class="options">Auf Wiedersehen
                 <input type="radio" name="radio"/>
                 <span class="checkmark"></span>
             </label>
-            <label class="options">Journalist or Activist
+            <label class="options">Hallo
                 <input type="radio" name="radio"/>
                 <span class="checkmark"></span>
             </label>
-            <label class="options">Other
+            <label class="options">Danke
                 <input type="radio" name="radio"/>
                 <span class="checkmark"></span>
             </label>
